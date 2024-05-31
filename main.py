@@ -3,3 +3,6 @@ class Car:
 
 class Bus:
     pass
+
+class Avto:
+    pass
